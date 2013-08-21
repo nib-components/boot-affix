@@ -1,0 +1,7 @@
+{
+  "name": "boot-affix",
+  "description": "Initialize the Affix component",
+  "dependencies": {
+    "nib-components/affix": "0.0.2"
+  }
+}

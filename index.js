@@ -1,0 +1,1 @@
+require('affix').create('[data-affix]');
