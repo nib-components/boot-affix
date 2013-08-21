@@ -3,5 +3,12 @@
   "description": "Initialize the Affix component",
   "dependencies": {
     "nib-components/affix": "0.0.2"
-  }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "files": [],
+  "images": [],
+  "templates": []
 }
